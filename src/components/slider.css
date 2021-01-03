@@ -1,0 +1,14 @@
+
+
+.Slider-container {
+	margin-left: auto;
+	margin-right: auto;
+	width: 90%;
+	min-width: 500px;
+  }
+  .Slider-image {
+	object-fit: cover;
+	height: 400px;
+	width: 100%;
+  }
+  
